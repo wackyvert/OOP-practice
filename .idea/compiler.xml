@@ -6,9 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="OOP-practice" />
         <module name="sus" />
         <module name="oop-practice" />
+        <module name="OOP-practice" />
       </profile>
     </annotationProcessing>
   </component>
